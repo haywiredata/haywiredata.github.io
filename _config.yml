@@ -3,7 +3,7 @@ title: Haywire Data
 email: haywiredata@gmail.com
 url: https://www.haywiredata.com
 description: "Data science for the public interest."
-keywords: "your keywords, separated by commas"
+keywords: "data science, public interest consultant, visualization, data and policy"
 skills: "Data Science - Visualizations - Policy Advocacy"
 meta_author: Haywire Data
 
@@ -32,23 +32,15 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Haywire Data
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/haywiredata
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,7 +48,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This website is made with the Freelancer theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
