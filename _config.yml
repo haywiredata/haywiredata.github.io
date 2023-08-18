@@ -44,8 +44,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Arlington, VA
 
 # Credits content
 credits: 'This website is made with the Freelancer theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
