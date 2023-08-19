@@ -4,8 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2021
+client: PMF Racial Equity Council
+category: Data Analysis and Visualization
+description: The impetus for this project was an anecdotal drop in the percentage of Black hirees through the Presidential Management Fellowship (PMF), a federal requirement program. Examination of the data revealed that there had indeed been a sharp decrease in the percentage of certain minorities. Analysis of the data revealed that this change coincided with the introduction of a racially/gender biased entrance exam. Creating easy to understand visuals allowed the PMF Racial Equity Council to articulate the problem and advocate for a solution. The weight of the data and the clarity of the visualizations illustrating the problem meant that the group was able to successfully advocate for an effective solution despite resistance from the office managing the recruitment program. After the biased entrance exam was altered, the adverse impact on minority applicants was reversed. 
 ---
